@@ -1,0 +1,262 @@
+[
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Pushed to mid-on for a quick single."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Classic cover drive, races to the boundary!"
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "R. Sharma",
+      "dismissal": "LBW",
+      "commentary": "Big appeal... and he's out!"
+    }
+  },
+  {
+    "type": "MATCH_STATUS",
+    "payload": {
+      "status": "Innings Break",
+      "summary": "Team A finishes on 175/7."
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 0,
+      "commentary": "Defended back to the bowler."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 6,
+      "commentary": "Massive six! Over the long-on boundary!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 2,
+      "commentary": "Good running between the wickets, two runs taken."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "V. Kohli",
+      "dismissal": "Caught",
+      "commentary": "Caught at deep mid-wicket! Kohli departs for 45."
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Nudged to fine leg for a single."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Beautiful straight drive, races past the bowler!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 0,
+      "commentary": "Dot ball, good line and length from the bowler."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "S. Dhawan",
+      "dismissal": "Bowled",
+      "commentary": "Clean bowled! The stumps are shattered!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 3,
+      "commentary": "Excellent running, three runs to deep point."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Flicked off the pads, races to the fine leg boundary!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Quick single to cover point."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "K.L. Rahul",
+      "dismissal": "Run Out",
+      "commentary": "Direct hit! Rahul is short of his ground!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 0,
+      "commentary": "Beaten outside off stump, good delivery."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 6,
+      "commentary": "Huge six over deep square leg! What a shot!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 2,
+      "commentary": "Well placed, two runs to deep mid-wicket."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "H. Pandya",
+      "dismissal": "Caught Behind",
+      "commentary": "Edged! Caught by the wicketkeeper!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Worked to square leg for a single."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Cut shot, races to the third man boundary!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 0,
+      "commentary": "Defended to the off side."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "R. Jadeja",
+      "dismissal": "Stumped",
+      "commentary": "Stumped! Jadeja was well out of his crease!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Pushed to mid-off for a quick single."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 6,
+      "commentary": "Monster six over long-off! That's gone miles!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 2,
+      "commentary": "Good placement, two runs to deep cover."
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "M. Shami",
+      "dismissal": "LBW",
+      "commentary": "Plumb! Shami is trapped in front!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 0,
+      "commentary": "Dot ball, excellent fielding in the circle."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Pull shot, races to the mid-wicket boundary!"
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 1,
+      "commentary": "Nudged to backward square leg for a single."
+    }
+  },
+  {
+    "type": "MATCH_STATUS",
+    "payload": {
+      "status": "Powerplay",
+      "summary": "First 6 overs completed. 45/2."
+    }
+  },
+  {
+    "type": "BALL",
+    "payload": {
+      "runs": 3,
+      "commentary": "Excellent running, three runs to deep backward point."
+    }
+  },
+  {
+    "type": "BOUNDARY",
+    "payload": {
+      "runs": 4,
+      "commentary": "Sweep shot, races to the fine leg boundary!"
+    }
+  },
+  {
+    "type": "WICKET",
+    "payload": {
+      "playerOut": "J. Bumrah",
+      "dismissal": "Caught",
+      "commentary": "Caught at deep mid-wicket! Bumrah goes for a duck!"
+    }
+  },
+  {
+    "type": "MATCH_STATUS",
+    "payload": {
+      "status": "Drinks Break",
+      "summary": "15 overs completed. 98/5."
+    }
+  }
+]
